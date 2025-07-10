@@ -3,10 +3,9 @@
 A Streamlit app that predicts house prices using a Linear Regression model trained on the Kaggle Housing dataset.
 
 ## 🎥 Demo
-Watch the demo video to see the app in action:
-- **Video Demo**: [House Price Prediction Demo.mp4](./House%20Price%20Prediction%20Demo.mp4)
+Watch the demo to see the app in action:
 
-> **Note**: Click the video link above to download and view the demo. GitHub doesn't display MP4 videos directly in README files.
+![House Price Prediction Demo](./HousePricePredictionDemo.gif)
 
 ## 📸 Screenshots
 - **Price Prediction Interface**: ![Price Prediction](./price.png)
@@ -66,7 +65,7 @@ PRODIGY_ML_01/
 ├── model.pkl             # Trained machine learning model
 ├── requirements.txt      # Python dependencies
 ├── PRODIGY_ML_01.ipynb  # Jupyter notebook with model training
-├── House Price Prediction Demo.mp4  # Demo video
+├── HousePricePredictionDemo.gif  # Demo GIF
 ├── perfect prediction.png # Screenshot of perfect prediction
 ├── price.png            # Screenshot of price prediction interface
 └── README.md           # This file
