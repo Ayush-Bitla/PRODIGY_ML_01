@@ -54,7 +54,7 @@ The app will open in your default browser at `http://localhost:8501`
 
 ## 📊 Model Details
 - **Algorithm**: Linear Regression
-- **Dataset**: Kaggle Housing Dataset
+- **Dataset**: [Kaggle Housing Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 - **Features**: Living Area, Bedrooms, Full Bathrooms
 - **Model File**: `model.pkl` (trained model)
 
