@@ -4,7 +4,7 @@ A Streamlit app that predicts house prices using a Linear Regression model train
 
 ## 🎥 Demo
 Watch the demo video to see the app in action:
-- **Video Demo**: [House Price Prediction Demo.mp4](./House%20Price%20Prediction%20Demo.mp4)
+- **Video Demo**: [House Price Prediction Demo.mp4](./HousePricePredictionDemo-ezgif.com-video-to-gif-converter.gif)
 
 ## 📸 Screenshots
 - **Price Prediction Interface**: ![Price Prediction](./price.png)
